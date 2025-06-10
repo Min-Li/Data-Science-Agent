@@ -1,0 +1,42 @@
+# Core dependencies
+langgraph>=0.2.55
+langchain-community>=0.3.9
+langchain-openai>=0.3.7
+
+# LLM providers
+langchain-anthropic>=0.3.0
+langchain-google-genai>=2.0.0
+langchain-deepseek>=0.1.0
+
+# Riza for code execution
+rizaio
+
+# OpenAI (for DeepSeek and OpenAI)
+openai>=1.61.0
+
+# Data processing
+pandas
+numpy
+scikit-learn
+
+# Web interface
+streamlit
+
+# Async support is built into Python 3.7+
+# asyncio is part of the standard library
+
+# For embeddings if using local computation
+# sentence-transformers==2.2.2
+
+# Visualization (for generated code)
+matplotlib
+seaborn
+plotly
+
+# Utilities
+python-dotenv>=1.0.1
+pydantic
+
+# Development
+pytest
+pytest-asyncio>=0.21.0
