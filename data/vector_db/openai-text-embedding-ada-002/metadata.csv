@@ -1,0 +1,647 @@
+id,dataset_index,competition_name,summary_file_path
+dataset-135-summary,135,Click-Through Rate Prediction for Mobile Ads,datasets/135/problem_summary.md
+dataset-307-summary,307,Binary Classification of Malware Infection Risk,datasets/307/problem_summary.md
+dataset-551-summary,551,Predicting Parkinson's Disease Progression with Protein and Peptide Data,datasets/551/problem_summary.md
+dataset-61-summary,61,Prescription Volume Prediction,datasets/61/problem_summary.md
+dataset-95-summary,95,Solar Energy Production Forecasting with Weather Models,datasets/95/problem_summary.md
+dataset-338-summary,338,Multiclass Classification of Diabetic Retinopathy Severity from Retinal Images,datasets/338/problem_summary.md
+dataset-556-summary,556,3D Scene Reconstruction from 2D Images,datasets/556/problem_summary.md
+dataset-300-summary,300,20 Newsgroups Ciphertext Challenge,datasets/300/problem_summary.md
+dataset-132-summary,132,Seizure Prediction from Intracranial EEG Data,datasets/132/problem_summary.md
+dataset-59-summary,59,Traveling Santa Problem with Disjoint Paths,datasets/59/problem_summary.md
+dataset-569-summary,569,Predicting CO2 Emissions in Rwanda Using Satellite Data,datasets/569/problem_summary.md
+dataset-92-summary,92,Webpage Evergreen Classification Challenge,datasets/92/problem_summary.md
+dataset-66-summary,66,Predicting Parkinson's Disease Progression with Smartphone Data,datasets/66/problem_summary.md
+dataset-336-summary,336,Pneumothorax Segmentation in Chest X-rays,datasets/336/problem_summary.md
+dataset-104-summary,104,Binary Image Classification of Dogs vs. Cats,datasets/104/problem_summary.md
+dataset-560-summary,560,Extracting Tabular Data from Scientific Graphs for Accessibility,datasets/560/problem_summary.md
+dataset-594-summary,594,Solving Geometric Permutation Puzzles with Minimal Moves,datasets/594/problem_summary.md
+dataset-309-summary,309,Histopathologic Cancer Detection,datasets/309/problem_summary.md
+dataset-50-summary,50,Predicting Mobile Visitor Product Interest from Search Behavior,datasets/50/problem_summary.md
+dataset-68-summary,68,Predicting Hospital Admissions Using Historical Claims Data,datasets/68/problem_summary.md
+dataset-593-summary,593,Binary Classification of AI-Generated vs. Student-Written Essays,datasets/593/problem_summary.md
+dataset-567-summary,567,Identifying Contrails in Satellite Images to Mitigate Global Warming,datasets/567/problem_summary.md
+dataset-103-summary,103,3D Bin Packing Optimization for Santa's Sleigh,datasets/103/problem_summary.md
+dataset-331-summary,331,Toxicity Classification with Unintended Bias Mitigation,datasets/331/problem_summary.md
+dataset-57-summary,57,Predicting Customer Retention in Insurance Policies,datasets/57/problem_summary.md
+dataset-558-summary,558,Ink Detection in 3D X-ray Scans of Ancient Papyrus Scrolls,datasets/558/problem_summary.md
+dataset-168-summary,168,Coupon Purchase Recommendation for E-Commerce,datasets/168/problem_summary.md
+dataset-391-summary,391,ALASKA2 Image Steganalysis,datasets/391/problem_summary.md
+dataset-533-summary,533,Ordinal Regression for Wine Quality Prediction,datasets/533/problem_summary.md
+dataset-365-summary,365,NCAA Women's Basketball Tournament Outcome Prediction,datasets/365/problem_summary.md
+dataset-157-summary,157,Taxi Trip Time Prediction Based on Partial Trajectories,datasets/157/problem_summary.md
+dataset-150-summary,150,Predicting Sales of Weather-Sensitive Products During Extreme Weather Events,datasets/150/problem_summary.md
+dataset-362-summary,362,Multi-label Classification for Subjective Q&A Quality Scoring,datasets/362/problem_summary.md
+dataset-534-summary,534,Regression with a Tabular Paris Housing Price Dataset,datasets/534/problem_summary.md
+dataset-396-summary,396,SIIM-ISIC Melanoma Classification,datasets/396/problem_summary.md
+dataset-159-summary,159,Predicting Search Results Relevance for eCommerce,datasets/159/problem_summary.md
+dataset-32-summary,32,Predicting US Corporate Bond Trade Prices,datasets/32/problem_summary.md
+dataset-502-summary,502,Smartphone Decimeter-Level GNSS Positioning Challenge,datasets/502/problem_summary.md
+dataset-166-summary,166,Predicting Industrial Tube Assembly Prices,datasets/166/problem_summary.md
+dataset-354-summary,354,Energy Consumption Prediction for Buildings,datasets/354/problem_summary.md
+dataset-192-summary,192,Predicting Customer Satisfaction for Santander Bank,datasets/192/problem_summary.md
+dataset-398-summary,398,Global Wheat Detection via Image Analysis,datasets/398/problem_summary.md
+dataset-35-summary,35,Predicting User Follow Recommendations in Tencent Weibo,datasets/35/problem_summary.md
+dataset-195-summary,195,Binary Classification of Kobe Bryant's Shot Success,datasets/195/problem_summary.md
+dataset-353-summary,353,Kannada Handwritten Digit Classification,datasets/353/problem_summary.md
+dataset-161-summary,161,Predicting Context Ad Click-Through Rates,datasets/161/problem_summary.md
+dataset-505-summary,505,Credit Default Prediction with Time-Series Behavioral Data,datasets/505/problem_summary.md
+dataset-566-summary,566,Forecasting Mini-Course Sales,datasets/566/problem_summary.md
+dataset-330-summary,330,Aerial Cactus Identification,datasets/330/problem_summary.md
+dataset-102-summary,102,Personalized Web Search Ranking Challenge,datasets/102/problem_summary.md
+dataset-592-summary,592,Predicting Essay Quality from Keystroke Logs,datasets/592/problem_summary.md
+dataset-69-summary,69,Binary Detection of North Atlantic Right Whale Calls from Audio Recordings,datasets/69/problem_summary.md
+dataset-559-summary,559,Forecasting Microbusiness Density at US County Level,datasets/559/problem_summary.md
+dataset-56-summary,56,Predicting Optimal Paths in Dynamic Internet Topology Graphs,datasets/56/problem_summary.md
+dataset-595-summary,595,Binary Classification with a Bank Churn Dataset,datasets/595/problem_summary.md
+dataset-105-summary,105,Predicting Starting States in Conway's Reverse Game of Life,datasets/105/problem_summary.md
+dataset-337-summary,337,Decrypting Shakespearean Ciphertext with Classic and Modern Ciphers,datasets/337/problem_summary.md
+dataset-561-summary,561,Binary Classification of Machine Failures,datasets/561/problem_summary.md
+dataset-51-summary,51,Predicting Molecular Activity for Drug Development,datasets/51/problem_summary.md
+dataset-308-summary,308,VSB Power Line Fault Detection,datasets/308/problem_summary.md
+dataset-58-summary,58,Predicting Dark Matter Halo Positions from Galaxy Ellipticity Data,datasets/58/problem_summary.md
+dataset-557-summary,557,Predicting Crab Age with Physical Attributes,datasets/557/problem_summary.md
+dataset-133-summary,133,Binary Classification with Synthetic Dataset using Scikit-learn,datasets/133/problem_summary.md
+dataset-301-summary,301,PUBG Finish Placement Prediction,datasets/301/problem_summary.md
+dataset-67-summary,67,Job Salary Prediction,datasets/67/problem_summary.md
+dataset-93-summary,93,Personalized Hotel Ranking for Expedia Searches,datasets/93/problem_summary.md
+dataset-568-summary,568,Binary Classification of Age-Related Medical Conditions,datasets/568/problem_summary.md
+dataset-306-summary,306,Humpback Whale Identification from Tail Images,datasets/306/problem_summary.md
+dataset-134-summary,134,Toy Production Scheduling for Santa's Workshop,datasets/134/problem_summary.md
+dataset-550-summary,550,Predicting Wild Blueberry Yield with Regression,datasets/550/problem_summary.md
+dataset-94-summary,94,Stock Price Direction Prediction with Time Series Data,datasets/94/problem_summary.md
+dataset-339-summary,339,Cellular Image Classification for Genetic Perturbation Identification,datasets/339/problem_summary.md
+dataset-60-summary,60,Visualizing Trends in Colorado Public School Performance,datasets/60/problem_summary.md
+dataset-399-summary,399,Birdcall Identification in Soundscape Recordings,datasets/399/problem_summary.md
+dataset-34-summary,34,Predicting Ad Click-Through Rates with Search Session Data,datasets/34/problem_summary.md
+dataset-160-summary,160,Diabetic Retinopathy Detection from Retinal Images,datasets/160/problem_summary.md
+dataset-352-summary,352,Predicting Intersection Congestion with Commercial Vehicle Telematics Data,datasets/352/problem_summary.md
+dataset-504-summary,504,Predicting Effectiveness of Argumentative Writing Elements,datasets/504/problem_summary.md
+dataset-194-summary,194,Hotel Cluster Recommendation for Expedia Users,datasets/194/problem_summary.md
+dataset-33-summary,33,Automated Essay Scoring for Student-Written Essays,datasets/33/problem_summary.md
+dataset-158-summary,158,Predicting Taxi Trip Destinations from Partial Trajectories,datasets/158/problem_summary.md
+dataset-193-summary,193,San Francisco Crime Classification,datasets/193/problem_summary.md
+dataset-503-summary,503,Unsupervised Clustering of Manufacturing Control Data,datasets/503/problem_summary.md
+dataset-355-summary,355,Analyzing NFL Player Injuries and Performance Across Turf Types,datasets/355/problem_summary.md
+dataset-167-summary,167,Introducing Kaggle Scripts Platform,datasets/167/problem_summary.md
+dataset-397-summary,397,Landmark Image Retrieval with Feature Embeddings,datasets/397/problem_summary.md
+dataset-363-summary,363,Bengali Handwritten Grapheme Component Classification,datasets/363/problem_summary.md
+dataset-151-summary,151,Bike Rental Demand Forecasting,datasets/151/problem_summary.md
+dataset-535-summary,535,Breast Cancer Detection in Screening Mammograms,datasets/535/problem_summary.md
+dataset-169-summary,169,Denoising Dirty Documents,datasets/169/problem_summary.md
+dataset-532-summary,532,Multi-Objective Recommender System for E-Commerce,datasets/532/problem_summary.md
+dataset-156-summary,156,Sentiment Analysis on IMDB Movie Reviews using Word2Vec,datasets/156/problem_summary.md
+dataset-364-summary,364,NCAA March Madness Tournament Outcome Prediction,datasets/364/problem_summary.md
+dataset-390-summary,390,Forecasting Walmart Retail Sales with Hierarchical Time Series Data,datasets/390/problem_summary.md
+dataset-216-summary,216,Leaf Species Classification from Binary Images and Extracted Features,datasets/216/problem_summary.md
+dataset-440-summary,440,Wildlife Species Counting in Camera Trap Image Sequences,datasets/440/problem_summary.md
+dataset-229-summary,229,Predicting Russian Real Estate Prices with Macroeconomic Data,datasets/229/problem_summary.md
+dataset-447-summary,447,Smartphone Decimeter-Level GNSS Positioning Challenge,datasets/447/problem_summary.md
+dataset-211-summary,211,Santander Product Recommendation,datasets/211/problem_summary.md
+dataset-478-summary,478,Argumentative Discourse Element Classification in Student Essays,datasets/478/problem_summary.md
+dataset-227-summary,227,Cervical Cancer Type Classification from Medical Images,datasets/227/problem_summary.md
+dataset-471-summary,471,Predicting Realized Volatility in Financial Markets,datasets/471/problem_summary.md
+dataset-643-summary,643,Efficient Chess AI Development with Resource Constraints,datasets/643/problem_summary.md
+dataset-485-summary,485,Clinical Concept Identification in Patient Notes,datasets/485/problem_summary.md
+dataset-218-summary,218,Binary Classification of Dog and Cat Images,datasets/218/problem_summary.md
+dataset-482-summary,482,Multi-Agent Strategy Game for Kore Mining Optimization,datasets/482/problem_summary.md
+dataset-644-summary,644,Predicting Multilingual Chatbot Response Preferences,datasets/644/problem_summary.md
+dataset-476-summary,476,Object Detection for Crown-of-Thorns Starfish in Underwater Images,datasets/476/problem_summary.md
+dataset-220-summary,220,Transfer Learning for Multi-label Text Tagging on Stack Exchange Questions,datasets/220/problem_summary.md
+dataset-449-summary,449,Multi-Agent Reinforcement Learning for Hungry Geese Game,datasets/449/problem_summary.md
+dataset-280-summary,280,Predicting Loan Repayment Risk with Alternative Data,datasets/280/problem_summary.md
+dataset-422-summary,422,Multi-Armed Bandit Competition for Candy Cane Collection,datasets/422/problem_summary.md
+dataset-610-summary,610,Predicting Plant Traits from Citizen Science Images for Ecosystem Health,datasets/610/problem_summary.md
+dataset-274-summary,274,Predicting Online Classified Ad Demand,datasets/274/problem_summary.md
+dataset-628-summary,628,ARC Prize 2024: Novel Abstract Reasoning Task Solving,datasets/628/problem_summary.md
+dataset-273-summary,273,Instance-Level Video Segmentation for Autonomous Driving,datasets/273/problem_summary.md
+dataset-617-summary,617,Emulating Subgrid Atmospheric Processes in Climate Models,datasets/617/problem_summary.md
+dataset-425-summary,425,VinBigData Chest X-ray Abnormalities Detection,datasets/425/problem_summary.md
+dataset-287-summary,287,Store Item Demand Forecasting Challenge,datasets/287/problem_summary.md
+dataset-621-summary,621,LLM 20 Questions: Cooperative Word Deduction Game,datasets/621/problem_summary.md
+dataset-413-summary,413,Analyzing the 2020 Kaggle Machine Learning & Data Science Survey,datasets/413/problem_summary.md
+dataset-245-summary,245,Binary Classification for Auto Insurance Claim Prediction,datasets/245/problem_summary.md
+dataset-289-summary,289,New York City Taxi Fare Prediction,datasets/289/problem_summary.md
+dataset-619-summary,619,Binary Classification of Insurance Cross Selling,datasets/619/problem_summary.md
+dataset-242-summary,242,Web Traffic Time Series Forecasting,datasets/242/problem_summary.md
+dataset-414-summary,414,Volcanic Eruption Time Prediction with Seismic Sensor Data,datasets/414/problem_summary.md
+dataset-626-summary,626,Extracting Exoplanet Atmospheric Spectra from Noisy Telescope Data,datasets/626/problem_summary.md
+dataset-477-summary,477,Multiclass Classification of Bacterial Species from Genomic Histograms,datasets/477/problem_summary.md
+dataset-645-summary,645,Multi-Agent Reinforcement Learning for Space Exploration Strategy,datasets/645/problem_summary.md
+dataset-221-summary,221,NCAA Basketball Tournament Outcome Prediction,datasets/221/problem_summary.md
+dataset-483-summary,483,Whale and Dolphin Identification via Image Matching,datasets/483/problem_summary.md
+dataset-448-summary,448,COVID-19 Detection and Localization in Chest Radiographs,datasets/448/problem_summary.md
+dataset-484-summary,484,Time Series Classification of Biological Sensor Data,datasets/484/problem_summary.md
+dataset-226-summary,226,Quora Question Pairs Duplicate Detection,datasets/226/problem_summary.md
+dataset-642-summary,642,Equity in Post-HCT Survival Predictions,datasets/642/problem_summary.md
+dataset-470-summary,470,Analyzing NFL Special Teams Performance with Tracking Data,datasets/470/problem_summary.md
+dataset-219-summary,219,Satellite Imagery Feature Detection with MultiPolygon Classification,datasets/219/problem_summary.md
+dataset-446-summary,446,Predicting Text Readability for Educational Passages,datasets/446/problem_summary.md
+dataset-210-summary,210,Predicting Insurance Claim Severity,datasets/210/problem_summary.md
+dataset-479-summary,479,Traffic Congestion Forecasting in a U.S. Metropolis,datasets/479/problem_summary.md
+dataset-217-summary,217,Financial Market Value Prediction with Anonymized Time Series Data,datasets/217/problem_summary.md
+dataset-441-summary,441,Multiclass Classification of eCommerce Product Categories,datasets/441/problem_summary.md
+dataset-228-summary,228,Computer Vision-Based Steller Sea Lion Population Counting,datasets/228/problem_summary.md
+dataset-618-summary,618,Boolean Query Generation for Patent Search Explainability,datasets/618/problem_summary.md
+dataset-288-summary,288,Forest Cover Type Classification from Cartographic Variables,datasets/288/problem_summary.md
+dataset-243-summary,243,Text Normalization for Russian Language,datasets/243/problem_summary.md
+dataset-627-summary,627,Loan Approval Prediction,datasets/627/problem_summary.md
+dataset-415-summary,415,Evaluating Defensive Performance in NFL Passing Plays,datasets/415/problem_summary.md
+dataset-412-summary,412,Helmet Impact Detection in NFL Videos,datasets/412/problem_summary.md
+dataset-620-summary,620,Predicting Human Preferences in Chatbot Arena Conversations,datasets/620/problem_summary.md
+dataset-244-summary,244,Text Normalization for English Language,datasets/244/problem_summary.md
+dataset-629-summary,629,Binary Classification of Depression Risk from Mental Health Survey Data,datasets/629/problem_summary.md
+dataset-286-summary,286,Cuisine Classification from Recipe Ingredients,datasets/286/problem_summary.md
+dataset-272-summary,272,"Fine-Grained Image Classification of 8,000 Species with Long-Tailed Data",datasets/272/problem_summary.md
+dataset-424-summary,424,Multi-label Classification of Catheter and Line Positions in Chest X-rays,datasets/424/problem_summary.md
+dataset-616-summary,616,Predicting Small Molecule-Protein Binding Affinity with BELKA,datasets/616/problem_summary.md
+dataset-611-summary,611,3D Scene Reconstruction from Diverse 2D Images,datasets/611/problem_summary.md
+dataset-423-summary,423,Insurance Claim Amount Prediction with Synthetic Tabular Data,datasets/423/problem_summary.md
+dataset-275-summary,275,Humpback Whale Identification from Fluke Images,datasets/275/problem_summary.md
+dataset-281-summary,281,Large-Scale Object Detection in Complex Images,datasets/281/problem_summary.md
+dataset-257-summary,257,Camera Model Identification from Image Traces,datasets/257/problem_summary.md
+dataset-401-summary,401,Landmark Recognition in Images with Large Class Space,datasets/401/problem_summary.md
+dataset-633-summary,633,Predicting Problematic Internet Use from Physical Activity Data,datasets/633/problem_summary.md
+dataset-268-summary,268,Landmark Image Retrieval Challenge,datasets/268/problem_summary.md
+dataset-634-summary,634,Predicting Insurance Premiums with Tabular Data,datasets/634/problem_summary.md
+dataset-406-summary,406,Reverse Prediction in Conway's Game of Life,datasets/406/problem_summary.md
+dataset-250-summary,250,Music Recommendation with User-Song Interaction Prediction,datasets/250/problem_summary.md
+dataset-439-summary,439,Fine-Grained Plant Species Classification from Herbarium Specimens,datasets/439/problem_summary.md
+dataset-292-summary,292,Inclusive Image Classification with Geographic Distribution Robustness,datasets/292/problem_summary.md
+dataset-266-summary,266,Predicting DonorsChoose.org Project Proposal Approval,datasets/266/problem_summary.md
+dataset-602-summary,602,AI Assistants for Data Science Tasks with Gemma,datasets/602/problem_summary.md
+dataset-430-summary,430,Predicting NCAA Basketball Tournament Outcomes,datasets/430/problem_summary.md
+dataset-259-summary,259,Mercari Price Suggestion Challenge,datasets/259/problem_summary.md
+dataset-437-summary,437,Hotel Recognition for Human Trafficking Investigations via Fine-Grained Visual Categorization,datasets/437/problem_summary.md
+dataset-605-summary,605,Predicting Prosumer Energy Behavior to Minimize Imbalance Costs,datasets/605/problem_summary.md
+dataset-261-summary,261,Plant Seedlings Classification from Images,datasets/261/problem_summary.md
+dataset-295-summary,295,Multi-class Doodle Recognition from Noisy Drawing Data,datasets/295/problem_summary.md
+dataset-408-summary,408,Environmental and Social KPIs for Climate Solutions,datasets/408/problem_summary.md
+dataset-463-summary,463,Hindi and Tamil Question Answering,datasets/463/problem_summary.md
+dataset-235-summary,235,Binary Classification of Invasive Hydrangea in Forest Images,datasets/235/problem_summary.md
+dataset-497-summary,497,Tabular Data Imputation for Manufacturing Control Data,datasets/497/problem_summary.md
+dataset-490-summary,490,Hotel Recognition via Image Classification to Combat Human Trafficking,datasets/490/problem_summary.md
+dataset-232-summary,232,Predicting Mercedes-Benz Test Bench Time with Anonymized Features,datasets/232/problem_summary.md
+dataset-464-summary,464,Analyzing the 2021 Kaggle Machine Learning & Data Science Survey,datasets/464/problem_summary.md
+dataset-499-summary,499,Medical Image Segmentation for GI Tract Organs in MRI Scans,datasets/499/problem_summary.md
+dataset-452-summary,452,Tabular Regression for Loan Default Loss Prediction,datasets/452/problem_summary.md
+dataset-204-summary,204,Predicting Customer Potential for Red Hat Business Value,datasets/204/problem_summary.md
+dataset-203-summary,203,Predicting Mobile User Demographics from App Usage Data,datasets/203/problem_summary.md
+dataset-455-summary,455,Binary Classification with Synthetic Insurance Claims Data,datasets/455/problem_summary.md
+dataset-294-summary,294,Binary Classification of Turkey Sounds in Audio Clips,datasets/294/problem_summary.md
+dataset-604-summary,604,PII Detection in Educational Text Data,datasets/604/problem_summary.md
+dataset-436-summary,436,Traffic Signal Optimization for City Traffic Flow,datasets/436/problem_summary.md
+dataset-260-summary,260,Dog Breed Identification from Images,datasets/260/problem_summary.md
+dataset-409-summary,409,Reinforcement Learning for Football Agent Control,datasets/409/problem_summary.md
+dataset-267-summary,267,Mobile App Ad Click Fraud Detection,datasets/267/problem_summary.md
+dataset-431-summary,431,Binary Classification on Synthetic Titanic Passenger Survival Data,datasets/431/problem_summary.md
+dataset-603-summary,603,LLM Prompt Recovery from Rewritten Text,datasets/603/problem_summary.md
+dataset-293-summary,293,Ship Detection in Satellite Imagery,datasets/293/problem_summary.md
+dataset-258-summary,258,Predicting Transparent Conductor Properties,datasets/258/problem_summary.md
+dataset-407-summary,407,Multi-label Classification of Drug Mechanisms of Action (MoA),datasets/407/problem_summary.md
+dataset-635-summary,635,Predicting NFL Team and Player Tendencies from Pre-Snap Behavior,datasets/635/problem_summary.md
+dataset-251-summary,251,Zillow Home Value Prediction (Zestimate),datasets/251/problem_summary.md
+dataset-438-summary,438,Multi-label Classification of Apple Leaf Diseases from Images,datasets/438/problem_summary.md
+dataset-256-summary,256,Restaurant Visitor Forecasting with Time-Series Data,datasets/256/problem_summary.md
+dataset-632-summary,632,Predicting Misconception-Distractor Affinity in Mathematics Questions,datasets/632/problem_summary.md
+dataset-400-summary,400,Halite IV: Multi-Agent Resource Management Game,datasets/400/problem_summary.md
+dataset-269-summary,269,Google Landmark Recognition Challenge,datasets/269/problem_summary.md
+dataset-202-summary,202,Predicting Bakery Inventory Demand for Grupo Bimbo,datasets/202/problem_summary.md
+dataset-454-summary,454,G2Net Gravitational Wave Detection,datasets/454/problem_summary.md
+dataset-498-summary,498,POI Matching with Noisy Location Data,datasets/498/problem_summary.md
+dataset-453-summary,453,MLB Player Digital Engagement Forecasting,datasets/453/problem_summary.md
+dataset-205-summary,205,Integer Sequence Learning,datasets/205/problem_summary.md
+dataset-233-summary,233,Multi-label Classification of Amazon Satellite Imagery,datasets/233/problem_summary.md
+dataset-465-summary,465,Binary Classification with Synthetic Email Spam Features,datasets/465/problem_summary.md
+dataset-491-summary,491,Sorghum Cultivar Identification from RGB Images,datasets/491/problem_summary.md
+dataset-496-summary,496,Semantic Similarity Matching for U.S. Patent Phrases,datasets/496/problem_summary.md
+dataset-462-summary,462,Ventilator Pressure Prediction in Mechanical Lung Simulation,datasets/462/problem_summary.md
+dataset-234-summary,234,Error: Competition Details Not Found,datasets/234/problem_summary.md
+dataset-346-summary,346,Steel Defect Detection and Classification,datasets/346/problem_summary.md
+dataset-174-summary,174,Predicting Hourly Rainfall from Polarimetric Radar Data,datasets/174/problem_summary.md
+dataset-510-summary,510,Image Classification of Stroke Blood Clot Origin,datasets/510/problem_summary.md
+dataset-180-summary,180,Predicting Stock Returns with Noisy Financial Data,datasets/180/problem_summary.md
+dataset-379-summary,379,Fine-Grained Plant Species Classification from Herbarium Specimens,datasets/379/problem_summary.md
+dataset-20-summary,20,Predicting Bodily Injury Liability Insurance Claims,datasets/20/problem_summary.md
+dataset-187-summary,187,Automated Cardiac MRI Volume Measurement for Heart Disease Diagnosis,datasets/187/problem_summary.md
+dataset-18-summary,18,Predicting Wikipedia Editor Participation,datasets/18/problem_summary.md
+dataset-517-summary,517,"Predicting Multimodal Single-Cell Integration of DNA, RNA, and Protein Data",datasets/517/problem_summary.md
+dataset-173-summary,173,Predicting Western Australia Rental Prices,datasets/173/problem_summary.md
+dataset-341-summary,341,Open Images 2019 - Object Detection,datasets/341/problem_summary.md
+dataset-27-summary,27,Predicting Student Test Question Accuracy,datasets/27/problem_summary.md
+dataset-9-summary,9,Predicting Edges in an Online Social Network,datasets/9/problem_summary.md
+dataset-528-summary,528,Binary Classification with a Tabular Stroke Prediction Dataset,datasets/528/problem_summary.md
+dataset-383-summary,383,Abstraction and Reasoning Challenge,datasets/383/problem_summary.md
+dataset-145-summary,145,Predicting Popularity of New York Times Blog Articles,datasets/145/problem_summary.md
+dataset-377-summary,377,Flower Classification with TPUs,datasets/377/problem_summary.md
+dataset-521-summary,521,Scrabble Player Rating Prediction,datasets/521/problem_summary.md
+dataset-11-summary,11,Time Series Forecasting for Freeway Travel Time Prediction,datasets/11/problem_summary.md
+dataset-348-summary,348,RSNA Intracranial Hemorrhage Detection,datasets/348/problem_summary.md
+dataset-526-summary,526,Evaluating Linemen Performance in NFL Pass Plays,datasets/526/problem_summary.md
+dataset-370-summary,370,Binary Classification with Categorical Feature Encoding Challenge II,datasets/370/problem_summary.md
+dataset-142-summary,142,NCAA Basketball Tournament Outcome Prediction,datasets/142/problem_summary.md
+dataset-384-summary,384,Fine-Grained Attribute Recognition in Artwork Images,datasets/384/problem_summary.md
+dataset-7-summary,7,Predicting Chess Game Outcomes with Alternative Rating Systems,datasets/7/problem_summary.md
+dataset-29-summary,29,Biometric Identification from Eye Movement Patterns,datasets/29/problem_summary.md
+dataset-519-summary,519,Predicting English Language Proficiency from Student Essays,datasets/519/problem_summary.md
+dataset-16-summary,16,Binary Classification with High-Dimensional Simulated Data to Prevent Overfitting,datasets/16/problem_summary.md
+dataset-189-summary,189,Multi-label Classification of Restaurant Attributes from User-Submitted Photos,datasets/189/problem_summary.md
+dataset-129-summary,129,Predicting Soil Properties from Infrared Spectroscopy Data,datasets/129/problem_summary.md
+dataset-42-summary,42,Music Recommendation Prediction with the Million Song Dataset,datasets/42/problem_summary.md
+dataset-89-summary,89,Predicting 311 Issue Engagement Metrics,datasets/89/problem_summary.md
+dataset-572-summary,572,Predicting Horse Health Outcomes,datasets/572/problem_summary.md
+dataset-116-summary,116,Predicting Insurance Policy Purchases from Transaction History,datasets/116/problem_summary.md
+dataset-324-summary,324,Fine-Grained Attribute Recognition in Artwork Images,datasets/324/problem_summary.md
+dataset-586-summary,586,Detecting Sleep States from Wrist-Worn Accelerometer Data,datasets/586/problem_summary.md
+dataset-45-summary,45,Kinect Gesture Recognition Challenge,datasets/45/problem_summary.md
+dataset-581-summary,581,Predicting AI Model Runtime Optimization Configurations,datasets/581/problem_summary.md
+dataset-323-summary,323,Wildlife Animal Classification in Camera Trap Images,datasets/323/problem_summary.md
+dataset-111-summary,111,NCAA Basketball Tournament Outcome Prediction,datasets/111/problem_summary.md
+dataset-575-summary,575,RSNA 2023 Abdominal Trauma Detection,datasets/575/problem_summary.md
+dataset-588-summary,588,Protein Function Prediction with Gene Ontology Terms,datasets/588/problem_summary.md
+dataset-73-summary,73,Handwriting Stroke Recovery from Offline Signature Images,datasets/73/problem_summary.md
+dataset-118-summary,118,Predicting Repeat Shoppers from Transactional Data,datasets/118/problem_summary.md
+dataset-87-summary,87,Yelp Business Rating Prediction,datasets/87/problem_summary.md
+dataset-543-summary,543,NCAA Basketball Tournament Outcome Prediction,datasets/543/problem_summary.md
+dataset-315-summary,315,Gendered Pronoun Resolution,datasets/315/problem_summary.md
+dataset-127-summary,127,Predicting Click-Through Rates on Display Ads,datasets/127/problem_summary.md
+dataset-80-summary,80,Multi-class Audio Classification of Bird Species,datasets/80/problem_summary.md
+dataset-74-summary,74,Predicting Product Launch Success with Early Sales Data,datasets/74/problem_summary.md
+dataset-120-summary,120,Predicting Exciting Education Projects on DonorsChoose.org,datasets/120/problem_summary.md
+dataset-312-summary,312,Pet Adoption Speed Prediction,datasets/312/problem_summary.md
+dataset-544-summary,544,Binary Classification with a Tabular Kidney Stone Prediction Dataset,datasets/544/problem_summary.md
+dataset-6-summary,6,Predicting Short-Term Stock Price Movements,datasets/6/problem_summary.md
+dataset-385-summary,385,TREC-COVID Information Retrieval for Pandemic Document Search,datasets/385/problem_summary.md
+dataset-28-summary,28,One-Shot-Learning Gesture Recognition with Kinect Data,datasets/28/problem_summary.md
+dataset-527-summary,527,Regression with a Tabular California Housing Dataset,datasets/527/problem_summary.md
+dataset-143-summary,143,Malware Family Classification Challenge,datasets/143/problem_summary.md
+dataset-371-summary,371,COVID-19 Global Forecasting (Week 2),datasets/371/problem_summary.md
+dataset-17-summary,17,Measuring Galaxy Ellipticity to Map Dark Matter,datasets/17/problem_summary.md
+dataset-188-summary,188,NCAA Basketball Tournament Outcome Prediction,datasets/188/problem_summary.md
+dataset-518-summary,518,Analyzing the 2022 Kaggle Machine Learning & Data Science Survey,datasets/518/problem_summary.md
+dataset-376-summary,376,COVID-19 Daily Case and Fatality Forecasting,datasets/376/problem_summary.md
+dataset-144-summary,144,NLP - Missing Word Imputation in Billion Word Corpus,datasets/144/problem_summary.md
+dataset-520-summary,520,Binary Classification with Model Blending Practice,datasets/520/problem_summary.md
+dataset-382-summary,382,Plant Pathology Classification in Apple Leaves,datasets/382/problem_summary.md
+dataset-1-summary,1,Forecasting Eurovision Song Contest Voting Patterns,datasets/1/problem_summary.md
+dataset-349-summary,349,Cloud Structure Segmentation from Satellite Images,datasets/349/problem_summary.md
+dataset-10-summary,10,R Package Recommendation Engine for R Programmers,datasets/10/problem_summary.md
+dataset-516-summary,516,Horse Racing Tactics and Path Efficiency Analysis,datasets/516/problem_summary.md
+dataset-340-summary,340,Visual Relationship Detection in Open Images,datasets/340/problem_summary.md
+dataset-172-summary,172,Predicting Direct Mail Response for Loan Marketing,datasets/172/problem_summary.md
+dataset-186-summary,186,Predicting Telstra Network Fault Severity,datasets/186/problem_summary.md
+dataset-19-summary,19,Predicting Supermarket Shopper Visits and Spend,datasets/19/problem_summary.md
+dataset-529-summary,529,Robotic Arm Path Optimization for Image Printing,datasets/529/problem_summary.md
+dataset-26-summary,26,Getting Started Competition,datasets/26/problem_summary.md
+dataset-8-summary,8,Tourism Time Series Forecasting Competition,datasets/8/problem_summary.md
+dataset-181-summary,181,Predicting Cervical Cancer Screening Compliance from Medical Records,datasets/181/problem_summary.md
+dataset-175-summary,175,Time Series Forecasting for Rossmann Store Sales,datasets/175/problem_summary.md
+dataset-347-summary,347,3D Object Detection for Autonomous Vehicles,datasets/347/problem_summary.md
+dataset-511-summary,511,Predicting Stock Returns for the Tokyo Stock Exchange,datasets/511/problem_summary.md
+dataset-21-summary,21,Semi-Supervised Feature Learning for High-Dimensional Data,datasets/21/problem_summary.md
+dataset-378-summary,378,Predicting Ion Channel Openings from Electrophysiological Signals,datasets/378/problem_summary.md
+dataset-75-summary,75,Multi-modal Image and Text Tag Association Challenge,datasets/75/problem_summary.md
+dataset-81-summary,81,Author-Paper Identification Challenge (Binary Classification with Ranking),datasets/81/problem_summary.md
+dataset-313-summary,313,Santander Customer Transaction Prediction,datasets/313/problem_summary.md
+dataset-121-summary,121,Schizophrenia Diagnosis from Multimodal MRI Features,datasets/121/problem_summary.md
+dataset-545-summary,545,Neutrino Direction Reconstruction with IceCube Data,datasets/545/problem_summary.md
+dataset-119-summary,119,Greek Media Monitoring Multilabel Classification (WISE 2014),datasets/119/problem_summary.md
+dataset-86-summary,86,Multi-modal Gesture Recognition from Kinect Data,datasets/86/problem_summary.md
+dataset-72-summary,72,Predicting Bulldozer Auction Prices,datasets/72/problem_summary.md
+dataset-589-summary,589,Multi-Class Prediction of Cirrhosis Outcomes,datasets/589/problem_summary.md
+dataset-542-summary,542,Regression with a Tabular Media Campaign Cost Dataset,datasets/542/problem_summary.md
+dataset-126-summary,126,Higgs Boson Signal Detection Challenge,datasets/126/problem_summary.md
+dataset-314-summary,314,Floor Surface Classification for Robot Navigation,datasets/314/problem_summary.md
+dataset-44-summary,44,Binary Classification of Type 2 Diabetes from Electronic Health Records,datasets/44/problem_summary.md
+dataset-110-summary,110,Galaxy Morphology Classification Challenge,datasets/110/problem_summary.md
+dataset-322-summary,322,Landmark Image Retrieval Challenge,datasets/322/problem_summary.md
+dataset-574-summary,574,Evaluating Student Summaries with NLP,datasets/574/problem_summary.md
+dataset-580-summary,580,Binary Prediction of Smoker Status using Bio-Signals,datasets/580/problem_summary.md
+dataset-43-summary,43,Multi-Class Source Code File Classification,datasets/43/problem_summary.md
+dataset-128-summary,128,Multi-class Image Classification on CIFAR-10 Dataset,datasets/128/problem_summary.md
+dataset-587-summary,587,Predicting RNA Structure via Chemical Reactivity Profiles,datasets/587/problem_summary.md
+dataset-573-summary,573,LLM Science Exam: Answering Multiple-Choice Science Questions Generated by LLMs,datasets/573/problem_summary.md
+dataset-88-summary,88,Causal Relationship Detection in Variable Pairs,datasets/88/problem_summary.md
+dataset-325-summary,325,Fine-Grained Species Classification in Natural Images,datasets/325/problem_summary.md
+dataset-117-summary,117,Predicting Credit Default Risk,datasets/117/problem_summary.md
+dataset-508-summary,508,Multi-Organ Functional Tissue Unit Segmentation in Histology Images,datasets/508/problem_summary.md
+dataset-198-summary,198,Avito Duplicate Ads Detection,datasets/198/problem_summary.md
+dataset-361-summary,361,Question Answering on Wikipedia Articles with TensorFlow 2.0,datasets/361/problem_summary.md
+dataset-153-summary,153,Predicting Altruism Through Free Pizza Requests,datasets/153/problem_summary.md
+dataset-537-summary,537,NFL Player Contact Detection from Sensor and Video Data,datasets/537/problem_summary.md
+dataset-38-summary,38,Psychopathy Prediction from Twitter Usage,datasets/38/problem_summary.md
+dataset-395-summary,395,Open Images Object Detection Challenge,datasets/395/problem_summary.md
+dataset-359-summary,359,Predicting Vehicle Pose from Single Images for Autonomous Driving,datasets/359/problem_summary.md
+dataset-392-summary,392,Prostate Cancer Grade Assessment (PANDA) Challenge,datasets/392/problem_summary.md
+dataset-530-summary,530,Binary Classification with a Tabular Employee Attrition Dataset,datasets/530/problem_summary.md
+dataset-154-summary,154,Binary Classification of Online Auction Bidders: Human or Robot?,datasets/154/problem_summary.md
+dataset-366-summary,366,Emissions Factor Calculation Using Remote Sensing Data,datasets/366/problem_summary.md
+dataset-36-summary,36,Predicting Biological Response from Molecular Descriptors,datasets/36/problem_summary.md
+dataset-539-summary,539,Regression with a Tabular Concrete Strength Dataset,datasets/539/problem_summary.md
+dataset-196-summary,196,Satellite Image Chronology Prediction,datasets/196/problem_summary.md
+dataset-162-summary,162,Predicting Closed Questions on Stack Overflow,datasets/162/problem_summary.md
+dataset-350-summary,350,2019 Kaggle Machine Learning & Data Science Survey Analysis Challenge,datasets/350/problem_summary.md
+dataset-506-summary,506,Binary Classification for Product Failure Prediction,datasets/506/problem_summary.md
+dataset-368-summary,368,COVID-19 Global Forecasting (Week 1),datasets/368/problem_summary.md
+dataset-31-summary,31,Hourly Air Quality Prediction for Early Warning Systems,datasets/31/problem_summary.md
+dataset-501-summary,501,Multi-Agent Strategy Game for Kore Mineral Mining,datasets/501/problem_summary.md
+dataset-357-summary,357,Santa's Workshop Tour Scheduling Optimization,datasets/357/problem_summary.md
+dataset-165-summary,165,EEG-Based Hand Motion Detection in Grasp-and-Lift Tasks,datasets/165/problem_summary.md
+dataset-191-summary,191,Predicting Search Relevance for Home Depot Products,datasets/191/problem_summary.md
+dataset-555-summary,555,Parkinson's Freezing of Gait Detection from Wearable Sensor Data,datasets/555/problem_summary.md
+dataset-131-summary,131,Multi-label Text Classification for Document Text Blocks,datasets/131/problem_summary.md
+dataset-303-summary,303,Quora Insincere Questions Classification,datasets/303/problem_summary.md
+dataset-91-summary,91,Appliance-Level Energy Disaggregation Using EMI Signatures,datasets/91/problem_summary.md
+dataset-65-summary,65,Binary Classification for Email Spam Detection,datasets/65/problem_summary.md
+dataset-304-summary,304,Predicting Customer Revenue with Google Analytics Data,datasets/304/problem_summary.md
+dataset-136-summary,136,EEG-Based Error Detection in P300-Speller Brain-Computer Interface,datasets/136/problem_summary.md
+dataset-552-summary,552,Out-of-Sample Detection in Deep Ocean Imagery,datasets/552/problem_summary.md
+dataset-62-summary,62,Visualizing Kaggle Leaderboard Dynamics,datasets/62/problem_summary.md
+dataset-599-summary,599,Steel Plate Defect Prediction,datasets/599/problem_summary.md
+dataset-96-summary,96,Accelerometer-Based User Identification,datasets/96/problem_summary.md
+dataset-109-summary,109,Predicting Pseudorandom Numbers,datasets/109/problem_summary.md
+dataset-590-summary,590,Ovarian Cancer Subtype Classification from Histopathology Images,datasets/590/problem_summary.md
+dataset-564-summary,564,AI Research Essay Competition on ML Advancements,datasets/564/problem_summary.md
+dataset-332-summary,332,Predicting Stock Movements Using News Analytics,datasets/332/problem_summary.md
+dataset-100-summary,100,Keyword Extraction from Stack Exchange Questions,datasets/100/problem_summary.md
+dataset-54-summary,54,Predicting Closed Questions on Stack Overflow,datasets/54/problem_summary.md
+dataset-107-summary,107,Loan Default and Loss Severity Prediction,datasets/107/problem_summary.md
+dataset-335-summary,335,Predicting Molecular Magnetic Interactions (Scalar Coupling Constants),datasets/335/problem_summary.md
+dataset-563-summary,563,Multi-Label Classification with an Enzyme Substrate Dataset,datasets/563/problem_summary.md
+dataset-98-summary,98,Predicting Citizen Engagement with 311 Issues,datasets/98/problem_summary.md
+dataset-597-summary,597,Multi-Class Prediction of Obesity Risk,datasets/597/problem_summary.md
+dataset-138-summary,138,Driver Telematics Fingerprint Identification,datasets/138/problem_summary.md
+dataset-53-summary,53,Hierarchical Load Forecasting for US Utility Zones,datasets/53/problem_summary.md
+dataset-30-summary,30,Arabic Writer Identification from Handwritten Documents,datasets/30/problem_summary.md
+dataset-369-summary,369,ImageNet Object Localization Challenge,datasets/369/problem_summary.md
+dataset-190-summary,190,Binary Classification for Insurance Claim Acceleration,datasets/190/problem_summary.md
+dataset-500-summary,500,Financial Market Return Rate Prediction,datasets/500/problem_summary.md
+dataset-164-summary,164,Predicting Property Hazard Scores for Insurance Inspections,datasets/164/problem_summary.md
+dataset-356-summary,356,Predicting NFL Rushing Yards with Player Tracking Data,datasets/356/problem_summary.md
+dataset-538-summary,538,Regression with a Tabular Gemstone Price Dataset,datasets/538/problem_summary.md
+dataset-37-summary,37,Personality Prediction from Twitter Usage Data,datasets/37/problem_summary.md
+dataset-351-summary,351,Binary Classification with Categorical Feature Encoding,datasets/351/problem_summary.md
+dataset-163-summary,163,Cross-Device User Identification Challenge,datasets/163/problem_summary.md
+dataset-507-summary,507,AI Village Capture the Flag @ DEFCON,datasets/507/problem_summary.md
+dataset-197-summary,197,Predicting Check-Ins in a Simulated Geographic Environment,datasets/197/problem_summary.md
+dataset-358-summary,358,Santa 2019 - Revenge of the Accountants - Workshop Scheduling Optimization,datasets/358/problem_summary.md
+dataset-531-summary,531,Binary Classification with a Tabular Credit Card Fraud Dataset,datasets/531/problem_summary.md
+dataset-367-summary,367,COVID-19 Cumulative Case and Fatality Forecasting in California,datasets/367/problem_summary.md
+dataset-155-summary,155,Predicting West Nile Virus Presence in Mosquitoes,datasets/155/problem_summary.md
+dataset-393-summary,393,Photo Slideshow Optimization with Tag-Based Transitions,datasets/393/problem_summary.md
+dataset-199-summary,199,Shelter Animal Outcome Prediction,datasets/199/problem_summary.md
+dataset-509-summary,509,Book Sales Forecasting Across Countries and Stores,datasets/509/problem_summary.md
+dataset-39-summary,39,Online Product Sales Prediction,datasets/39/problem_summary.md
+dataset-394-summary,394,Instance Segmentation on Open Images Dataset (RVC 2020),datasets/394/problem_summary.md
+dataset-152-summary,152,Poker Hand Classification via Rule Induction,datasets/152/problem_summary.md
+dataset-360-summary,360,Predicting Early Childhood Learning Outcomes from Gameplay Data,datasets/360/problem_summary.md
+dataset-536-summary,536,Binary Classification with a Tabular Reservation Cancellation Dataset,datasets/536/problem_summary.md
+dataset-596-summary,596,3D Blood Vessel Segmentation in Human Kidney Scans,datasets/596/problem_summary.md
+dataset-334-summary,334,Generative Dog Image Creation with GANs,datasets/334/problem_summary.md
+dataset-106-summary,106,"Flu Forecasting: Predicting Occurrence, Peak, and Severity",datasets/106/problem_summary.md
+dataset-99-summary,99,Multi-label Classification of Weather-related Tweets,datasets/99/problem_summary.md
+dataset-562-summary,562,Predicting Student Performance from Game Play Logs,datasets/562/problem_summary.md
+dataset-52-summary,52,Wind Power Forecasting with 48-Hour Horizon for 7 Wind Farms,datasets/52/problem_summary.md
+dataset-139-summary,139,Multi-class Plankton Image Classification for Ocean Health Assessment,datasets/139/problem_summary.md
+dataset-565-summary,565,Instance Segmentation of Kidney Microvasculature in Histology Images,datasets/565/problem_summary.md
+dataset-101-summary,101,Predicting Insurance Customer Churn,datasets/101/problem_summary.md
+dataset-333-summary,333,Kinship Verification from Facial Images,datasets/333/problem_summary.md
+dataset-591-summary,591,NFL Tackling Strategy and Performance Analysis,datasets/591/problem_summary.md
+dataset-55-summary,55,Predicting Census Mail Return Rates at Block Group Level,datasets/55/problem_summary.md
+dataset-137-summary,137,Sentiment Analysis on Movie Reviews,datasets/137/problem_summary.md
+dataset-305-summary,305,Predicting Customer Loyalty Scores for Merchant Recommendations,datasets/305/problem_summary.md
+dataset-553-summary,553,Bird Species Identification from Audio Recordings,datasets/553/problem_summary.md
+dataset-97-summary,97,Multi-label Bird Species Classification from Audio Recordings,datasets/97/problem_summary.md
+dataset-108-summary,108,Predicting Malfunctional Components in ASUS Notebooks,datasets/108/problem_summary.md
+dataset-598-summary,598,Predicting Stock Closing Price Movements Using Auction and Order Book Data,datasets/598/problem_summary.md
+dataset-63-summary,63,Event Recommendation Engine Challenge,datasets/63/problem_summary.md
+dataset-554-summary,554,Feature Imputation with a Heat Flux Dataset,datasets/554/problem_summary.md
+dataset-302-summary,302,Predicting Pilot Cognitive States from Physiological Data,datasets/302/problem_summary.md
+dataset-130-summary,130,Predicting Social Circles in Networks,datasets/130/problem_summary.md
+dataset-64-summary,64,Binary Classification with AUC Evaluation at Strata 2013,datasets/64/problem_summary.md
+dataset-90-summary,90,Predicting Short-Term Stock Price Movements with News and Sentiment Data,datasets/90/problem_summary.md
+dataset-419-summary,419,Multi-label Audio Classification of Bird and Frog Species in Rainforest Recordings,datasets/419/problem_summary.md
+dataset-270-summary,270,Fine-Grained Image Classification of Furniture and Home Goods,datasets/270/problem_summary.md
+dataset-426-summary,426,Binary Classification with Synthetic Insurance Claim Data,datasets/426/problem_summary.md
+dataset-614-summary,614,Predicting Academic Risk of Students in Higher Education,datasets/614/problem_summary.md
+dataset-284-summary,284,Movie Review Sentiment Analysis (Kernels Only),datasets/284/problem_summary.md
+dataset-248-summary,248,Threat Detection in Passenger Body Scans,datasets/248/problem_summary.md
+dataset-283-summary,283,Costa Rican Household Poverty Level Prediction,datasets/283/problem_summary.md
+dataset-613-summary,613,AI Mathematical Olympiad Problem Solving,datasets/613/problem_summary.md
+dataset-421-summary,421,"Rock, Paper, Scissors AI Agent Competition",datasets/421/problem_summary.md
+dataset-277-summary,277,Compact Video Classification with YouTube-8M Dataset,datasets/277/problem_summary.md
+dataset-428-summary,428,NCAA Women's Basketball Tournament Outcome Prediction,datasets/428/problem_summary.md
+dataset-241-summary,241,Genetic Mutation Classification for Personalized Cancer Treatment,datasets/241/problem_summary.md
+dataset-625-summary,625,Multi-class Classification of Lumbar Spine Degenerative Conditions from MRI Scans,datasets/625/problem_summary.md
+dataset-417-summary,417,Regression with Tabular Playground Series - Jan 2021,datasets/417/problem_summary.md
+dataset-279-summary,279,Santander Transaction Value Prediction,datasets/279/problem_summary.md
+dataset-410-summary,410,Drone Delivery Fleet Optimization,datasets/410/problem_summary.md
+dataset-622-summary,622,Binary Prediction of Poisonous Mushrooms,datasets/622/problem_summary.md
+dataset-246-summary,246,Multi-class Image Classification for E-commerce Products,datasets/246/problem_summary.md
+dataset-444-summary,444,Multiclass Classification of eCommerce Product Categories,datasets/444/problem_summary.md
+dataset-212-summary,212,Character Recognition in Google Street View Images with Julia,datasets/212/problem_summary.md
+dataset-215-summary,215,Optimizing Gift Bag Packing with Uncertain Weights,datasets/215/problem_summary.md
+dataset-443-summary,443,Identifying Dataset Mentions in Scientific Publications,datasets/443/problem_summary.md
+dataset-488-summary,488,Location-Based Species Presence Prediction with Multi-Modal Data,datasets/488/problem_summary.md
+dataset-481-summary,481,Predicting NCAA Men's Basketball Tournament Outcomes,datasets/481/problem_summary.md
+dataset-475-summary,475,Ranking Toxic Comment Severity,datasets/475/problem_summary.md
+dataset-223-summary,223,Fish Species Classification from Boat Camera Images,datasets/223/problem_summary.md
+dataset-224-summary,224,Predicting Rental Listing Interest Levels,datasets/224/problem_summary.md
+dataset-640-summary,640,Backpack Price Prediction Challenge,datasets/640/problem_summary.md
+dataset-472-summary,472,Optimizing Movie Permutation Schedules for SantaTV+,datasets/472/problem_summary.md
+dataset-486-summary,486,Cryptocurrency Price Return Forecasting with High-Frequency Market Data,datasets/486/problem_summary.md
+dataset-278-summary,278,Particle Tracking in CERN Detectors,datasets/278/problem_summary.md
+dataset-623-summary,623,Binary Classification of Skin Cancer Lesions from 3D Total Body Photos,datasets/623/problem_summary.md
+dataset-411-summary,411,Reinforcement Learning for Halite Resource Management,datasets/411/problem_summary.md
+dataset-247-summary,247,Spooky Author Identification,datasets/247/problem_summary.md
+dataset-429-summary,429,Predicting NCAA Men's Basketball Tournament Point Spreads,datasets/429/problem_summary.md
+dataset-240-summary,240,Non-targeted Adversarial Attack on Image Classification Models,datasets/240/problem_summary.md
+dataset-416-summary,416,Predicting Student Answer Correctness with Knowledge Tracing,datasets/416/problem_summary.md
+dataset-624-summary,624,Regression of Used Car Prices,datasets/624/problem_summary.md
+dataset-249-summary,249,Predicting Subscription Churn for a Music Streaming Service,datasets/249/problem_summary.md
+dataset-420-summary,420,Cassava Leaf Disease Classification,datasets/420/problem_summary.md
+dataset-612-summary,612,Bird Species Identification from Audio in the Western Ghats,datasets/612/problem_summary.md
+dataset-276-summary,276,Audio Tagging in Diverse Real-World Environments,datasets/276/problem_summary.md
+dataset-282-summary,282,Visual Relationship Detection in Images,datasets/282/problem_summary.md
+dataset-418-summary,418,Time Series Forecasting for Water Availability in Diverse Waterbodies,datasets/418/problem_summary.md
+dataset-285-summary,285,Detecting Rare Particle Decay τ → μμμ in Physics Data,datasets/285/problem_summary.md
+dataset-271-summary,271,Multi-label Fashion Image Classification Challenge,datasets/271/problem_summary.md
+dataset-615-summary,615,Automated Essay Scoring for Student Learning Outcomes,datasets/615/problem_summary.md
+dataset-427-summary,427,Predicting NCAA Women's Basketball Tournament Point Spreads,datasets/427/problem_summary.md
+dataset-487-summary,487,Personalized Fashion Recommendations for H&M Customers,datasets/487/problem_summary.md
+dataset-225-summary,225,Video Tag Prediction with YouTube-8M Dataset,datasets/225/problem_summary.md
+dataset-473-summary,473,Predicting Pet Photo Popularity with Image and Metadata Analysis,datasets/473/problem_summary.md
+dataset-641-summary,641,Adversarial Essay Generation for LLM Judge Disagreement,datasets/641/problem_summary.md
+dataset-646-summary,646,Binary Prediction with a Rainfall Dataset,datasets/646/problem_summary.md
+dataset-474-summary,474,Time Series Forecasting for Store Sales,datasets/474/problem_summary.md
+dataset-222-summary,222,Lung Cancer Detection from CT Scans,datasets/222/problem_summary.md
+dataset-480-summary,480,Predicting NCAA Women's Basketball Tournament Outcomes,datasets/480/problem_summary.md
+dataset-214-summary,214,Predicting Click-through Rates for Content Recommendations,datasets/214/problem_summary.md
+dataset-442-summary,442,Chemical Image to InChI Text Translation,datasets/442/problem_summary.md
+dataset-489-summary,489,Bird Species Identification in Audio Recordings,datasets/489/problem_summary.md
+dataset-445-summary,445,Multi-Target Time Series Regression for Air Pollution Prediction,datasets/445/problem_summary.md
+dataset-213-summary,213,Facial Keypoints Detection in Images,datasets/213/problem_summary.md
+dataset-458-summary,458,Landmark Image Retrieval Challenge,datasets/458/problem_summary.md
+dataset-493-summary,493,Fine-Grained Classification of North American Vascular Plants from Herbarium Specimens,datasets/493/problem_summary.md
+dataset-231-summary,231,"Fine-Grained Image Classification of 5,000 Species",datasets/231/problem_summary.md
+dataset-467-summary,467,Lux AI Challenge: Resource Gathering and Survival Simulation,datasets/467/problem_summary.md
+dataset-209-summary,209,Seizure Prediction from Human Intracranial EEG Data,datasets/209/problem_summary.md
+dataset-460-summary,460,Binary Classification with Synthetic Molecular Response Data,datasets/460/problem_summary.md
+dataset-236-summary,236,New York City Taxi Trip Duration Prediction,datasets/236/problem_summary.md
+dataset-494-summary,494,Binary Classification with Manufacturing Control Data,datasets/494/problem_summary.md
+dataset-469-summary,469,Multiclass Classification of Forest Cover Types,datasets/469/problem_summary.md
+dataset-200-summary,200,Multi-class Classification of Distracted Driver Behaviors from Dashboard Camera Images,datasets/200/problem_summary.md
+dataset-456-summary,456,Analyzing COVID-19 Impact on Digital Learning Engagement,datasets/456/problem_summary.md
+dataset-238-summary,238,Defense Against Adversarial Attacks on Image Classification,datasets/238/problem_summary.md
+dataset-451-summary,451,Quantitative Trading Strategy Prediction with Market Data,datasets/451/problem_summary.md
+dataset-207-summary,207,Predicting Manufacturing Failures in Bosch Production Lines,datasets/207/problem_summary.md
+dataset-405-summary,405,Motion Prediction for Autonomous Vehicles,datasets/405/problem_summary.md
+dataset-637-summary,637,Forecasting Sticker Sales,datasets/637/problem_summary.md
+dataset-253-summary,253,Grocery Sales Forecasting for a Large Retail Chain,datasets/253/problem_summary.md
+dataset-298-summary,298,Traveling Santa Route Optimization with Prime City Constraints,datasets/298/problem_summary.md
+dataset-608-summary,608,Credit Risk Prediction with Stability Focus,datasets/608/problem_summary.md
+dataset-254-summary,254,Speech Command Recognition with TensorFlow,datasets/254/problem_summary.md
+dataset-630-summary,630,Creative Use Cases for Gemini's Long Context Window,datasets/630/problem_summary.md
+dataset-402-summary,402,Predicting mRNA Vaccine Degradation Rates for COVID-19,datasets/402/problem_summary.md
+dataset-606-summary,606,Predicting Abalone Age from Physical Measurements,datasets/606/problem_summary.md
+dataset-434-summary,434,Human Protein Atlas - Single Cell Image Classification,datasets/434/problem_summary.md
+dataset-262-summary,262,Multi-label Classification of Toxic Online Comments,datasets/262/problem_summary.md
+dataset-296-summary,296,PLAsTiCC Astronomical Time-Series Classification,datasets/296/problem_summary.md
+dataset-639-summary,639,3D Protein Complex Detection in CryoET Tomograms,datasets/639/problem_summary.md
+dataset-291-summary,291,Pneumonia Detection in Chest Radiographs with Bounding Box Localization,datasets/291/problem_summary.md
+dataset-265-summary,265,Nuclei Segmentation in Diverse Microscopy Images,datasets/265/problem_summary.md
+dataset-433-summary,433,Glomeruli Segmentation in Kidney Tissue Images,datasets/433/problem_summary.md
+dataset-601-summary,601,Predicting NCAA Basketball Tournament Outcomes with Bracket Portfolios,datasets/601/problem_summary.md
+dataset-239-summary,239,Targeted Adversarial Attack on Image Classifiers,datasets/239/problem_summary.md
+dataset-450-summary,450,E.T. Signal Detection in Radio Telescope Data,datasets/450/problem_summary.md
+dataset-206-summary,206,Painter by Numbers: Identifying Artists from Painting Pairs,datasets/206/problem_summary.md
+dataset-468-summary,468,Neuronal Cell Instance Segmentation in Microscopy Images,datasets/468/problem_summary.md
+dataset-201-summary,201,Ultrasound Nerve Segmentation in Ultrasound Images,datasets/201/problem_summary.md
+dataset-457-summary,457,Landmark Recognition in Images,datasets/457/problem_summary.md
+dataset-208-summary,208,Multiclass Classification of Monster Types,datasets/208/problem_summary.md
+dataset-495-summary,495,Image Matching Challenge 2022,datasets/495/problem_summary.md
+dataset-461-summary,461,Computer Vision - Helmet Assignment in NFL Video Footage,datasets/461/problem_summary.md
+dataset-237-summary,237,Car Image Segmentation Challenge,datasets/237/problem_summary.md
+dataset-459-summary,459,Brain Tumor Radiogenomic Classification from MRI Scans,datasets/459/problem_summary.md
+dataset-230-summary,230,Multi-label Image Classification for Apparel Attributes,datasets/230/problem_summary.md
+dataset-466-summary,466,Wikipedia Image-to-Caption Matching,datasets/466/problem_summary.md
+dataset-492-summary,492,Animal Counting in Camera Trap Image Sequences,datasets/492/problem_summary.md
+dataset-264-summary,264,Predicting NCAA March Madness Tournament Outcomes,datasets/264/problem_summary.md
+dataset-600-summary,600,Multi-class Classification of Harmful Brain Activity from EEG Signals,datasets/600/problem_summary.md
+dataset-432-summary,432,Product Matching via Image and Text Data,datasets/432/problem_summary.md
+dataset-290-summary,290,TGS Salt Identification Challenge,datasets/290/problem_summary.md
+dataset-297-summary,297,NFL Punt Player Safety Analytics Competition,datasets/297/problem_summary.md
+dataset-435-summary,435,Indoor Smartphone Positioning with Sensor Data,datasets/435/problem_summary.md
+dataset-607-summary,607,Multi-Label Plant Species Prediction from Geospatial and Environmental Data,datasets/607/problem_summary.md
+dataset-263-summary,263,Predicting NCAA Women's Basketball Tournament Outcomes,datasets/263/problem_summary.md
+dataset-638-summary,638,Text Descrambling with Perplexity Optimization,datasets/638/problem_summary.md
+dataset-255-summary,255,Binary Classification of Satellite Images for Iceberg Detection,datasets/255/problem_summary.md
+dataset-403-summary,403,Predicting Pulmonary Fibrosis Progression from CT Scans,datasets/403/problem_summary.md
+dataset-631-summary,631,Predicting MCTS Variant Performance in Board Games,datasets/631/problem_summary.md
+dataset-636-summary,636,Fine-Tuning Gemma for Multilingual and Cultural Adaptation,datasets/636/problem_summary.md
+dataset-404-summary,404,Pulmonary Embolism Detection in Chest CT Scans,datasets/404/problem_summary.md
+dataset-252-summary,252,Santa Gift Matching Optimization Challenge,datasets/252/problem_summary.md
+dataset-609-summary,609,Flood Probability Prediction,datasets/609/problem_summary.md
+dataset-299-summary,299,Multi-label Classification of Subcellular Protein Patterns in Microscope Images,datasets/299/problem_summary.md
+dataset-46-summary,46,Donor Prospect Ranking for Non-Profit Fundraising,datasets/46/problem_summary.md
+dataset-549-summary,549,Reverse Image-to-Prompt Prediction with Stable Diffusion,datasets/549/problem_summary.md
+dataset-582-summary,582,Lux AI Season 2 - Multi-Agent Resource Management and Strategy,datasets/582/problem_summary.md
+dataset-79-summary,79,Right Whale Call Detection from Audio Recordings,datasets/79/problem_summary.md
+dataset-112-summary,112,Large-Scale Hierarchical Multi-Label Text Classification of Wikipedia Documents,datasets/112/problem_summary.md
+dataset-320-summary,320,Landmark Recognition in Images with Large-Scale Dataset,datasets/320/problem_summary.md
+dataset-576-summary,576,Bengali Speech Recognition from Out-of-Distribution Audio,datasets/576/problem_summary.md
+dataset-318-summary,318,Binary Classification with High-Dimensional Tabular Data,datasets/318/problem_summary.md
+dataset-41-summary,41,Predicting Music Track Ratings from Listener Profiles and Word Associations,datasets/41/problem_summary.md
+dataset-571-summary,571,Data-Centric Random Forest Regression with Synthetic Tabular Data,datasets/571/problem_summary.md
+dataset-327-summary,327,Multi-label Audio Tagging with Noisy and Curated Data,datasets/327/problem_summary.md
+dataset-115-summary,115,Reconstructing Neural Connectivity from Fluorescence Imaging Data,datasets/115/problem_summary.md
+dataset-585-summary,585,Regression with a Mohs Hardness Dataset,datasets/585/problem_summary.md
+dataset-83-summary,83,Predicting Employee Access Needs Based on Job Role,datasets/83/problem_summary.md
+dataset-578-summary,578,LLM Prompt Design for Real-World Applications,datasets/578/problem_summary.md
+dataset-77-summary,77,Facial Expression Recognition from Images,datasets/77/problem_summary.md
+dataset-311-summary,311,Predicting NCAA March Madness Outcomes with Historical Basketball Data,datasets/311/problem_summary.md
+dataset-123-summary,123,Seizure Detection in Intracranial EEG Recordings,datasets/123/problem_summary.md
+dataset-547-summary,547,Multiclass Classification of Vector-Borne Diseases,datasets/547/problem_summary.md
+dataset-48-summary,48,Product Mention Identification and Disambiguation in User-Generated Web Content,datasets/48/problem_summary.md
+dataset-70-summary,70,Predicting Social Media Influence from Pairwise Comparisons,datasets/70/problem_summary.md
+dataset-329-summary,329,Text Analysis for Job Bulletin Optimization in Los Angeles,datasets/329/problem_summary.md
+dataset-84-summary,84,MasterCard Transaction Data Cleansing Competition,datasets/84/problem_summary.md
+dataset-540-summary,540,Curriculum Recommendation for K-12 Educational Content,datasets/540/problem_summary.md
+dataset-124-summary,124,Binary Classification of Illicit Content in Online Ads,datasets/124/problem_summary.md
+dataset-316-summary,316,Recommending Career Advice Questions to Professionals,datasets/316/problem_summary.md
+dataset-184-summary,184,Multi-class Classification for 8th Grade Science Questions,datasets/184/problem_summary.md
+dataset-514-summary,514,Predicting Rocket League Goal Probabilities from Gameplay Snapshots,datasets/514/problem_summary.md
+dataset-342-summary,342,Instance Segmentation on Open Images Dataset,datasets/342/problem_summary.md
+dataset-170-summary,170,Binary Classification of Rare Particle Decay τ → μμμ,datasets/170/problem_summary.md
+dataset-24-summary,24,Predicting Car Auction Lemons (Binary Classification),datasets/24/problem_summary.md
+dataset-389-summary,389,M5 Forecasting - Uncertainty: Quantile Regression for Walmart Sales,datasets/389/problem_summary.md
+dataset-177-summary,177,Walmart Shopping Trip Type Classification,datasets/177/problem_summary.md
+dataset-345-summary,345,Kuzushiji Character Recognition in Historical Japanese Documents,datasets/345/problem_summary.md
+dataset-513-summary,513,Cervical Spine Fracture Detection from CT Scans,datasets/513/problem_summary.md
+dataset-183-summary,183,Predicting Airbnb New User Booking Destinations,datasets/183/problem_summary.md
+dataset-148-summary,148,Probabilistic Rainfall Estimation from Polarimetric Radar Data,datasets/148/problem_summary.md
+dataset-23-summary,23,Credit Scoring for Financial Distress Prediction,datasets/23/problem_summary.md
+dataset-525-summary,525,Predicting Enzyme Thermostability from Protein Sequences,datasets/525/problem_summary.md
+dataset-141-summary,141,Predicting Popularity of New York Times Blog Articles,datasets/141/problem_summary.md
+dataset-373-summary,373,COVID-19 Global Forecasting (Time Series Prediction),datasets/373/problem_summary.md
+dataset-4-summary,4,Binary Classification of HIV Progression Using Genetic and Clinical Data,datasets/4/problem_summary.md
+dataset-387-summary,387,Multilingual Toxic Comment Classification,datasets/387/problem_summary.md
+dataset-15-summary,15,Predicting Chess Game Outcomes with Improved Rating Systems,datasets/15/problem_summary.md
+dataset-380-summary,380,Wildlife Animal Species Classification in Camera Trap Images,datasets/380/problem_summary.md
+dataset-3-summary,3,Predicting World Cup 2010 Team Progression,datasets/3/problem_summary.md
+dataset-374-summary,374,Deepfake Detection in Video Data,datasets/374/problem_summary.md
+dataset-146-summary,146,Restaurant Revenue Prediction,datasets/146/problem_summary.md
+dataset-522-summary,522,Video-Based Event Detection in Football Matches,datasets/522/problem_summary.md
+dataset-12-summary,12,Predicting Grant Application Success,datasets/12/problem_summary.md
+dataset-179-summary,179,Optimizing Santa's Sleigh Routes to Minimize Reindeer Weariness,datasets/179/problem_summary.md
+dataset-328-summary,328,Binary Classification with an Anonymized Tabular Dataset,datasets/328/problem_summary.md
+dataset-85-summary,85,Multi-label Bird Species Classification from Audio Recordings,datasets/85/problem_summary.md
+dataset-71-summary,71,Gender Prediction from Handwritten Documents,datasets/71/problem_summary.md
+dataset-541-summary,541,Binary Classification with a Tabular Pulsar Dataset,datasets/541/problem_summary.md
+dataset-317-summary,317,Ciphertext Matching Challenge with Classic Encryption,datasets/317/problem_summary.md
+dataset-125-summary,125,Predicting Fire Loss Cost for Insurance Policies,datasets/125/problem_summary.md
+dataset-76-summary,76,Multi-class Classification on Obfuscated Black Box Data,datasets/76/problem_summary.md
+dataset-579-summary,579,AI Security Capture the Flag Challenges,datasets/579/problem_summary.md
+dataset-82-summary,82,Predicting Useful Votes for Yelp Reviews,datasets/82/problem_summary.md
+dataset-49-summary,49,Predicting Xbox Game Interest from Search Queries,datasets/49/problem_summary.md
+dataset-122-summary,122,Binary Classification of Visual Stimuli from MEG Brain Recordings,datasets/122/problem_summary.md
+dataset-310-summary,310,NCAA Women's Basketball Tournament Outcome Prediction,datasets/310/problem_summary.md
+dataset-546-summary,546,Isolated American Sign Language Recognition with TensorFlow Lite,datasets/546/problem_summary.md
+dataset-40-summary,40,Social Network Link Prediction Challenge,datasets/40/problem_summary.md
+dataset-319-summary,319,TMDB Box Office Revenue Prediction,datasets/319/problem_summary.md
+dataset-584-summary,584,Predicting Gene Expression Changes from Single-Cell Perturbations,datasets/584/problem_summary.md
+dataset-570-summary,570,American Sign Language Fingerspelling Recognition,datasets/570/problem_summary.md
+dataset-114-summary,114,Predicting Happiness from Polling Data,datasets/114/problem_summary.md
+dataset-326-summary,326,Fine-Grained Segmentation and Classification of Fashion Images,datasets/326/problem_summary.md
+dataset-548-summary,548,Multi-Agent Reinforcement Learning for Mars Terraforming Strategy,datasets/548/problem_summary.md
+dataset-47-summary,47,Binary Classification of Insulting Social Media Comments,datasets/47/problem_summary.md
+dataset-321-summary,321,Predicting Laboratory Earthquake Timing from Seismic Data,datasets/321/problem_summary.md
+dataset-113-summary,113,Walmart Store Sales Forecasting with Holiday Markdowns,datasets/113/problem_summary.md
+dataset-577-summary,577,Binary Classification with a Software Defects Dataset,datasets/577/problem_summary.md
+dataset-78-summary,78,Author Disambiguation in Academic Publications,datasets/78/problem_summary.md
+dataset-583-summary,583,Machine Unlearning for Age Prediction on Face Images,datasets/583/problem_summary.md
+dataset-147-summary,147,Forest Cover Type Prediction,datasets/147/problem_summary.md
+dataset-375-summary,375,NCAA March Madness Analytics Competition,datasets/375/problem_summary.md
+dataset-523-summary,523,Lux AI 2022 - Beta: Multi-Agent Reinforcement Learning for Terraforming Mars,datasets/523/problem_summary.md
+dataset-2-summary,2,World Cup 2010 - Confidence Challenge,datasets/2/problem_summary.md
+dataset-381-summary,381,Fine-Grained Segmentation and Attribute Classification for Fashion Images,datasets/381/problem_summary.md
+dataset-178-summary,178,Right Whale Recognition in Aerial Photographs,datasets/178/problem_summary.md
+dataset-13-summary,13,"Binary Classification of Driver Alertness Using Physiological, Environmental, and Vehicular Data",datasets/13/problem_summary.md
+dataset-386-summary,386,Tweet Sentiment Phrase Extraction,datasets/386/problem_summary.md
+dataset-5-summary,5,Tourism Time Series Forecasting,datasets/5/problem_summary.md
+dataset-524-summary,524,Detecting Continuous Gravitational Waves in Noisy Interferometer Data,datasets/524/problem_summary.md
+dataset-372-summary,372,COVID-19 Global Forecasting (Week 3),datasets/372/problem_summary.md
+dataset-140-summary,140,Predicting Chess Player Elo Ratings from Single Game Moves,datasets/140/problem_summary.md
+dataset-14-summary,14,Arabic Writer Identification from Handwritten Documents,datasets/14/problem_summary.md
+dataset-182-summary,182,Predicting Insurance Quote Conversion,datasets/182/problem_summary.md
+dataset-344-summary,344,Temporal Localization of Topics in YouTube Videos,datasets/344/problem_summary.md
+dataset-176-summary,176,Multiclass Cuisine Classification from Recipe Ingredients,datasets/176/problem_summary.md
+dataset-512-summary,512,Universal Image Embedding for Cross-Domain Retrieval,datasets/512/problem_summary.md
+dataset-22-summary,22,Photo Quality Prediction via Metadata Analysis,datasets/22/problem_summary.md
+dataset-149-summary,149,Multi-class Product Classification with Obfuscated Features,datasets/149/problem_summary.md
+dataset-515-summary,515,Predicting Markdown Cell Order in Python Notebooks,datasets/515/problem_summary.md
+dataset-171-summary,171,Sponsored Web Page Classification,datasets/171/problem_summary.md
+dataset-343-summary,343,Fraud Detection in E-Commerce Transactions,datasets/343/problem_summary.md
+dataset-185-summary,185,Predicting Life Insurance Risk Classification,datasets/185/problem_summary.md
+dataset-25-summary,25,Predicting Stock Market Resiliency After Liquidity Shocks,datasets/25/problem_summary.md
+dataset-388-summary,388,Predicting Age and Assessments from Multimodal Brain MRI Features,datasets/388/problem_summary.md
